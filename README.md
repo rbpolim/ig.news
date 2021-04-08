@@ -2,7 +2,7 @@
 
 ### :computer: Project
 
-<p>The Ig.news is a Jamstack architecture aplication to a personal blog with news about the ReactJS universe.</p>
+<p>The Ig.news is a technology blog with monthly payment system with access to posts. Built with NextJS, SASS, Prismic CMS, Stripe for the payment system and Jamstack architecture application.</p>
 
 ### :rocket: Technologies
 
